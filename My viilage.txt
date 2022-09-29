@@ -1,0 +1,13 @@
+<!-- Practical 1.3-->
+<html>
+<head>
+<title>My village</title>
+<head>
+<body style="color:powder blue">
+<p style="color:yellow; font-family:Arial; font-size:50px">My Village Name is Ozarde</p>
+<p style="color:red; font-family:Calibri; font-size:50px">It is located in Sangli District Valwa Taluka</p>
+<p style="color:blue; font-family:Arial; font-size:50px">It is close to Pune-Banglore Highway<p>
+<p style="color:green; font-family:Algerian; font-size:50px">Agricultural Techniques are well developed in my village</p>
+<p style="color:cyan; font-family:Forte; font-size:50px">I visit my Village every vacation of year</p>
+</head>
+</html>

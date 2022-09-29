@@ -1,0 +1,19 @@
+<!-- Practical 1.2 -->
+<html>
+<head>
+<title>My Family History</title>
+</head>
+
+<body>
+<h1 style="font-family:Times New Roman; font-size:200%; color:red">
+My Grandfather & My Grandmother</h1>
+<p>My Grandfather and Grandmother stays in village and do farming</p>
+<h2 style="font-family:Verdana; font-size:200%; color:yellow">
+My Father & Mother</h2>
+<p>My Father is Vegetable Vendor and My Mother is House-Wife</p>
+<h3 style="font-family:Courier; font-fize:150%; color:blue">
+Me & My Sibling Brother</h3>
+<p>I am studying in SYCS in Kirti College. My Brother is Studying in HSC in Khalsa College</p>
+</body>
+</html>
+ 

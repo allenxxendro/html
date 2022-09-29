@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Lists</title>
+</head>
+
+<body>
+<ol>
+<a href=p412.html>
+<li>Animals</li>
+</a>
+
+<a href=p413.html>
+<li>Birds</li>
+</a>
+
+<a href=p414.html>
+<li>Cars</li>
+</a>
+</ol>

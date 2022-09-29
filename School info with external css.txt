@@ -1,0 +1,15 @@
+<!-- Practical 2.2 -->
+<!-- External CSS -->
+
+<html>
+<head>
+<title>My School</title>
+<link rel="stylesheet" href="My School.css">
+</head>
+<body>
+<h1>Shri Mammabai High School</h1>
+<p>My School is located in Kalachowki, Mumbai</p>
+<p>My School was established in 1919</p>
+<p>I Studied in my school since from Jr.Kg to Std 10th </p>
+</body>
+</html>

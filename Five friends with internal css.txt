@@ -1,0 +1,24 @@
+<!-- Practial 2.1 -->
+<!-- Internal CSS-->
+
+<html>
+<head>
+<title>My Friends</title>
+<style>
+      body{background-color:powderblue}
+      h1{color:red;font-family:Georgia}
+      h2{color:cyan;font-size:30px;}
+      h3{color:yellow;text-align:center;} 
+      h4{color:green;font-family:forte;}
+      h5{color:violet;font-family:Algerian;}
+</style>
+</head>
+
+<body>
+<h1> Shubham </h1>
+<h2> Priyanshu </h2>
+<h3> Rahul </h3>
+<h4> Himanshu </h4>
+<h5> Gaurav </h5>
+</body>
+<html>

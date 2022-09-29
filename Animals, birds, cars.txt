@@ -1,0 +1,152 @@
+4.1)Details about Animals,Birds and Cars.
+P411.html
+<html>
+    <head>
+        <title>
+            Details about Animals,Birds and Cars.
+        </title>
+    </head>
+    <body>
+        <ol type="1">
+            Details about Animals,Birds and Cars:-
+            <li><a href="P412.html">Animals</a></li>
+            <li><a href="P413.html">Birds</a></li>
+            <li><a href="P414.html">Cars</a></li>
+        </ol>
+    </body>
+</html>
+
+P412.html
+<html>
+    <head>
+        <title>
+            Details about Animals:-
+        </title>
+    </head>
+    <body>
+        <ul type="disc">Details about Animals:-
+            <li>Lion</li>
+            <li>Tiger</li>
+            <li>Cheetah</li>
+        </ul>
+    </body>
+</html>
+
+P413.html
+<html>
+    <head>
+        <title>
+            Details about Birds:-
+        </title>
+    </head>
+    <body>
+        <ul type="square">Details about Birds:-
+            <li>Hawk</li>
+            <li>Eagle</li>
+            <li>Sparrow</li>
+        </ul>
+    </body>
+</html>
+
+P414.html
+<html>
+    <head>
+        <title>
+            Details about Cars:-
+        </title>
+    </head>
+    <body>
+    <ol type="I">
+        <li>BMW</li>
+        <li>Audi</li>
+        <li>Mercedes</li>
+    </ol>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+4.2)CV uaing External CSS.
+MyCV.html
+<html>
+    <head>
+        <title>
+            My CV.
+        </title>
+        <link rel="stylesheet" href="MyCV.CSS">
+    </head>
+    <body>
+        <table border="4">
+            <caption>
+                My CV.
+            </caption>
+            <tr id="tr1">
+                <th>Name</th>
+                <td>C. Gomith</td>
+            </tr>
+            <tr id="tr2">
+                <th>Address</th>
+                <td>Lower Parel</td>
+            </tr>
+            <tr id="tr3">
+                <th>Mobile No.</th>
+                <td>9876543210</td>
+            </tr>
+            <tr id="tr4">
+                <th>Email ID</th>
+                <td>Username@gmail.com</td>
+            </tr>
+            <tr id="tr5">
+                <th>Qualification</th>
+                <td>12th</td>
+            </tr>
+            <tr id="tr6">
+                <th>Languages Known</th>
+                <td>Hindi,English,Marathi,Telugu</td>
+            </tr>
+            <tr id="tr7">
+               <th>Skill Set</th>
+               <td>C++</td>
+            </tr>
+            <tr id="tr8">
+                <th>Hobbies</th>
+                <td>Football,Cricket,Volley-Ball</td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+MyCV.CSS
+caption{
+    color:red;font-family:papyrus;
+}
+#tr1{
+    color:cyan;font-family:verdana;
+}
+#tr2{
+    color:cyan;font-family:verdana;
+}
+#tr3{
+    color:cyan;font-family:verdana;
+}
+#tr4{
+    color:cyan;font-family:verdana;
+}
+#tr5{
+    color:cyan;font-family:verdana;
+}
+#tr6{
+    color:cyan;font-family:verdana;
+}
+#tr7{
+    color:cyan;font-family:verdana;
+}
+#tr8{
+    color:cyan;font-family:verdana;
+}

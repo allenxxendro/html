@@ -1,0 +1,47 @@
+<!-- Practical 5.2-->
+<!--DOCTYPE html-->
+<html>
+<head>
+<title>Simple Calculator</title>
+</head>
+
+<body>
+Enter no.1:<input type="text" placeholder="enter num 1" id="num1">
+Enter no.2:<input type="text" placeholder="enter num 2" id="num2">
+<p id="ans">Answer is</p>
+<button onclick="displayadd()">Add</button>
+<button onclick="displaysub()">Sub</button>
+<button onclick="displaymul()">Mul</button>
+<button onclick="displaydiv()">Div</button>
+</body>
+<script>
+function displayadd()
+{
+var num1=parseInt(document.getElementById("num1").value);
+var num2=parseInt(document.getElementById("num2").value);
+var sum=parseInt(num1+num2);
+document.getElementById("ans").innerHTML=sum;
+}
+function displaysub()
+{
+var num1=parseInt(document.getElementById("num1").value);
+var num2=parseInt(document.getElementById("num2").value);
+var sub=parseInt(num1-num2);
+document.getElementById("ans").innerHTML=sub;
+}
+function displaymul()
+{
+var num1=parseInt(document.getElementById("num1").value);
+var num2=parseInt(document.getElementById("num2").value);
+var mul=parseInt(num1*num2);
+document.getElementById("ans").innerHTML=mul;
+}
+function displaydiv()
+{
+var num1=parseInt(document.getElementById("num1").value);
+var num2=parseInt(document.getElementById("num2").value);
+var div=parseInt(num1/num2);
+document.getElementById("ans").innerHTML=div;
+}
+</script>
+</html>

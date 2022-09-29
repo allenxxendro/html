@@ -1,0 +1,12 @@
+<html>
+</head>
+<title>Details of Birds </title>
+</head>
+<body>
+<ul type="square">
+<li>Hawk</li>
+<li>Eagle</li>
+<li>Sparrow</li>
+</body>
+</html>
+</ul>

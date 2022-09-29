@@ -1,0 +1,10 @@
+<!-- Practical 1.1 -->
+<html>
+<head>
+<title>Display Name & Address </title>
+</head>
+<body>
+<p>Sahil Mahadik</p>
+<p>Lalbaug,Mumbai</p>
+</body>
+</html>

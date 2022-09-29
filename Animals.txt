@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Details of Animals </title>
+</head>
+<body>
+<ul>
+<li>Lion</li>
+<li>Tiger</li>
+<li>Cheetah</li>
+</body>
+</html>
+</ul>

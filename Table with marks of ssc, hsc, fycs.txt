@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> TABLE BORDER</title>
+<table border=" 10" border color="black" width="500" height="200">
+<tr bgcolor="red">
+<th>course</th>
+<th>school</th>
+<th>year</th>
+</tr>
+
+<tr bgcolor="cyan">
+<td>ssc</td>
+<td>SCHOOL</td>
+<td>2019</td>
+</tr>
+<tr bgcolor="purple">
+<td>ssc</td>
+<td>SCHOOL</td>
+<td>2019</td>
+</tr>
+<tr bgcolor="orange">
+<td>ssc</td>
+<td>SCHOOL</td>
+<td>2019</td>
+</tr>
+</head>
+</html>
+
+</head>
+</html>
+
+</head>
+</html>
+

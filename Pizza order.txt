@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> Pizza House </title>
+</head>
+
+<body>
+<!--Forms -->
+<form>
+<h3> Pizza House </h3>
+Name:<input type="text" name="text name" size="4" value="eg.meher21" maxlength="10">
+<br>
+Mobile No: <input type="number" name="text mobile no.">
+<br>
+<h4> Crush Type</h4>
+<input type="radio" name="r_type">
+Thin
+<input type="radio" name="r_type">
+Thick
+<br>
+<h4>Toppigs</h4>
+<input type="checkbox" name="c_Tomato">
+Tomato
+<input type="checkbox" name="c_Onion">
+Onion
+<input type="checkbox" name="c_Cheese">
+Cheese
+<br>
+<h4> Delivery Type </h4>
+<select name="s_box">
+<option value="s_EatIn ">Eat In</option>
+<option value="s_TakeAway">Take Away</option>
+</select>
+<br><br>
+<input type="button" name="submit" value="Submit">
+<input type="button" name="cancel" value="Cancel">
+</body>
+</html>

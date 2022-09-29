@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="stylesheet" href="MyCV.CSS">
+<title>My CV</title>
+</head>
+<body>
+<table border="4">
+<caption>My CV</caption>
+
+<tr id='tr1'>
+<td>Name</td>
+<td>Sahil Mahadik</td>
+</tr>
+
+<tr id='tr2'>
+<td>Address</td>
+<td>Lalbaug,Mumbai</td>
+</tr>
+
+<tr id='tr3'>
+<td>Mobile no.</td>
+<td>8541976231</td>
+</tr>
+
+<tr id='tr4'>
+<td>Email Id</td>
+<td>sahilmahadik1508@gmail.com</td>
+</tr>
+
+<tr id='tr5'>
+<td>Qualification</td>
+<td>HSC<td>
+</tr>
+
+<tr id='tr6'>
+<td>Lang Known</td>
+<td>Mar,Hin,Eng</td>
+</tr>
+
+<tr id='tr7'>
+<td>Skill Set</td>
+<td>Attentive</td>
+</tr>
+
+<tr id='tr8'>
+<td>Hobbies</td>
+<td>Cricket</td>
+</tr>
+</body>
+</html>
